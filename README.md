@@ -69,3 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 [![Build Status](https://travis-ci.com/hyun99999/travisTest.svg?branch=master)](https://travis-ci.com/hyun99999/travisTest)
+
+https://travis-ci.com/hyun99999/travisTest.svg?branch=master
