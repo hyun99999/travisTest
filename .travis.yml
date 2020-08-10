@@ -1,5 +1,10 @@
-language : node.js
-node_js:
-  - "node"
-install:
--npm install
+{
+  "language": "node_js",
+  "os": [
+    "linux"
+  ],
+  "dist": "xenial",
+  "node_js": [
+    "node"
+  ]
+}
